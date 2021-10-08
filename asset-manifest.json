@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dabeeo_FEtest/static/css/main.15d67c91.chunk.css",
+    "main.js": "/dabeeo_FEtest/static/js/main.ed01f777.chunk.js",
+    "main.js.map": "/dabeeo_FEtest/static/js/main.ed01f777.chunk.js.map",
+    "runtime-main.js": "/dabeeo_FEtest/static/js/runtime-main.62d19179.js",
+    "runtime-main.js.map": "/dabeeo_FEtest/static/js/runtime-main.62d19179.js.map",
+    "static/js/2.482680e4.chunk.js": "/dabeeo_FEtest/static/js/2.482680e4.chunk.js",
+    "static/js/2.482680e4.chunk.js.map": "/dabeeo_FEtest/static/js/2.482680e4.chunk.js.map",
+    "index.html": "/dabeeo_FEtest/index.html",
+    "static/css/main.15d67c91.chunk.css.map": "/dabeeo_FEtest/static/css/main.15d67c91.chunk.css.map",
+    "static/js/2.482680e4.chunk.js.LICENSE.txt": "/dabeeo_FEtest/static/js/2.482680e4.chunk.js.LICENSE.txt",
+    "static/media/map.1fd9fd82.png": "/dabeeo_FEtest/static/media/map.1fd9fd82.png",
+    "static/media/marker.c2124234.png": "/dabeeo_FEtest/static/media/marker.c2124234.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62d19179.js",
+    "static/js/2.482680e4.chunk.js",
+    "static/css/main.15d67c91.chunk.css",
+    "static/js/main.ed01f777.chunk.js"
+  ]
+}
